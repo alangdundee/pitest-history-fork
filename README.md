@@ -21,7 +21,7 @@ Install the plugin as described below. Incremental analysis can then be enabled 
         <dependencies>
           <dependency>
             <groupId>org.pitest</groupId>
-            <artifactId>pitest-history</artifactId>
+            <artifactId>pitest-history-plugin</artifactId>
             <version>0.0.1</version>
           </dependency>
         </dependencies>
